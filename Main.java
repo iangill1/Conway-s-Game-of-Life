@@ -8,7 +8,6 @@ import java.util.StringTokenizer;
 
 @SuppressWarnings("serial")
 public class Main extends JFrame implements Runnable, MouseListener, MouseMotionListener {
-
     //member data
     private static final Dimension WindowSize = new Dimension(800,800);
     private BufferStrategy strategy;
